@@ -1,4 +1,0 @@
-historicalPrice
-historicalRent
-year
-month
